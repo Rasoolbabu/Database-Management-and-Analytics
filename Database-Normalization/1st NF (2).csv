@@ -1,0 +1,22 @@
+,,1st NF,,,,
+,,,,,,
+Order Number,Order Date,Customer ID,Customer Name,Customer Address,Postal Code,Total Price
+1245,1/6/2016,AA405,John Jacobs,"1 Main Street, Brighton IL. 62213",62213,$35.00 
+1803,1/5/2016,AA510,Steve Smith,"4 Elm Street, Jamestown IL. 62215",62215,$30.00 
+1564,1/2/2016,AA405,John Jacobs,"1 Main Street, Brighton IL. 62213",62213,$12.00 
+1463,1/4/2016,AA403,Bill Brandt,"4 Oak Street, Sycamore IL. 62214",62214,$53.00 
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Order Number,Pizza Code,Pizza Name,Quantity,Price,,
+1245,P,Pepperoni,2,$6.00 ,,
+1245,V,Veggie,1,$6.50 ,,
+1245,C,Cheese,3,$5.50 ,,
+1803,P,Pepperoni,2,$6.00 ,,
+1803,M,Mushroom,3,$6.00 ,,
+1564,V,Veggie,1,$6.50 ,,
+1564,C,Cheese,1,$5.50 ,,
+1463,C,Cheese,2,$5.50 ,,
+1463,M,Mushroom,3,$6.00 ,,
+1463,P,Pepperoni,4,$6.00 ,,

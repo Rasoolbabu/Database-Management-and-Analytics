@@ -1,0 +1,33 @@
+,2nd NF,,
+,,,
+,,,
+Order Number,Order Date,Customer ID,Total Price
+1245,1/6/2016,AA405,$35.00 
+1803,1/5/2016,AA510,$30.00 
+1564,1/2/2016,AA405,$12.00 
+1463,1/4/2016,AA403,$53.00 
+,,,
+,,,
+,,,
+,,,
+,,,
+Pizza Code,Pizza Name,,
+P,Pepperoni,,
+V,Veggie,,
+C,Cheese,,
+M,Mushroom,,
+,,,
+,,,
+,,,
+,,,
+Order Number,Pizza Code,Quantity,Price
+1245,P,2,$6.00 
+1245,V,1,$6.50 
+1245,C,3,$5.50 
+1803,P,2,$6.00 
+1803,M,3,$6.00 
+1564,V,1,$6.50 
+1564,C,1,$5.50 
+1463,C,2,$5.50 
+1463,M,3,$6.00 
+1463,P,4,$6.00 
